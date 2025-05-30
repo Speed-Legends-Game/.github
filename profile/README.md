@@ -3,6 +3,7 @@ Speed Legends is a fast-paced physics-based racing game that pushes players to m
 
 ## 👉👉 Play now [Speed Legends](https://papas-games.io/speed-legends)
 <p><span><strong><img src="https://papas-games.io/data/image/game/speed-legends.jpeg" alt="speed legends" width="512" height="512" /></strong></span></p>
+
 ## Mastering the Sprint – Gameplay Overview
 In Speed Legends, racing isn't just about speed—it’s about technical mastery. Whether sprinting through short dashes, hurdle-filled tracks, or intense multiplayer showdowns, players must carefully balance posture, control movement, and maintain rhythm to keep their runner moving efficiently.
 
